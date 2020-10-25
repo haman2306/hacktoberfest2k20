@@ -1,26 +1,42 @@
+# Hacktoberfest 2020!
+
 <h1>Hello there👋!</h1>
 
-Here is a valubale opportunity to Support open source and pick a limited edition T-shirt or plant a tree.
+## What is Hacktoberfest?
 
-**What is Hacktoberfest?**
-<br/>
-Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.
+Hacktoberfest is an awesome opportunity to contribute to open source and receive some swag in return for your hardwork!
 
-**Event Details**
-<br/>
-Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+Hacktoberfest lasts all of October and is sponsored by GitHub and Digital Ocean.
 
-- Hacktoberfest is a celebration open to everyone in our global community.
-- Pull requests can be made in participating GitHub-hosted repositories/projects, classified with the Hacktoberfest topic.
-- You can sign up anytime between October 1 and October 31.
+## How Does Hacktoberfest Work?
 
-**How you can contribute?**
-- Start with open source you use every day. ...
-- Explore based on your interests. ...
-- Encourage projects to participate in Hacktoberfest. ...
-- Use and improve documentation. ...
-- Skip the code and host an event. ..
+Open source enthusiasts from all over the world will take part in Hacktoberfest. Whether you're a developer, student learning to code, hobbyist, or event host, you can make positive contributions to the ever-gowing open source community. 
 
-**How do I track my Hacktoberfest Tshirt?**
-<br/>
- Log in with your GitHub account at hacktoberfest.digitalocean.com to check your progress and stats.
+People of all backgrounds and skill levels are encouraged to complete this challenge.
+
+In return, you can choose to receive a limited edition t-shirt or have a tree planted in your name.
+
+A few important details:
+* You must complete four valid pull requests
+* Your Hacktoberfest PRs can be submitted anytime between October 1 and October 31. 
+* In order to count, the PRs must be made to GitHub repositories that have the "hacktoberfest" topic label, or the PR must be labeled "hacktoberfest-accepted." Check out the official [FAQs](https://hacktoberfest.digitalocean.com/faq) for more info.
+
+## How to Get Started
+
+* Start with open source projects you use everyday
+* Explore projects based on your interests
+* Improve documentation... there are endless opportunities to make documentation more user friendly, complete, and inclusive
+* Encourage projects to participate in Hacktoberfest
+* Host an event
+* Most importantly... learning something new and have fun!
+
+## Where Can I Go For Help
+
+* Check out the excellent [GitHub documentation](https://docs.github.com/en)
+* Check out the excellent [GitHub Open Source Guides](https://guides.github.com/)
+* If you are working on an issue related to a particular language, find the documentation for that language
+* Look for a local user group with members you can reach out to
+
+## How do I Track My Progress?
+
+Create an account at the official [Digital Ocean Hacktoberfest](hacktoberfest.digitalocean.com) website. All of the PRs you make will show up on your profile page, along with information about their progress in being accepted.
